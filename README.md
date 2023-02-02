@@ -7,4 +7,6 @@ About...
 
 #### The manhwa is still on the air.
 
+### FINISH
+
 <img src="img/tall.jpg" alt="poster" width="200">
